@@ -1,8 +1,8 @@
-# News Flash API
+# Spotter API
 
-This is the graphQL api for my Egghead course for building an offline capable news app with React Native and urql.
+This is the graphQL api for the Spotter app.
 
-**Note**: this api is built for educational purposes, and is not suitable for production use: for the sake of simplicity, the bookmarks data is read and written to the file system in `data.json`.
+**Note**: this api is not suitable for production use yet - for the sake of simplicity, the data is read and written to the file system in `data.json`.
 
 ## Developer setup
 
