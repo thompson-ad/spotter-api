@@ -21,7 +21,7 @@ const typeDefs = gql`
 
   type MovementHistory {
     id: ID!
-    name: String!
+    movementName: String!
     progressions: [Progression!]!
   }
 
